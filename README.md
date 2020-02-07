@@ -5,10 +5,10 @@ Two spaceships fight each other in the gravitational field of a star.
 
 ### External libraries:
 
+- OpenGL
 - SDL 1.2
 - SDL_mixer
 - SDL_ttf
-- OpenGL
 
 ### Features:
 
